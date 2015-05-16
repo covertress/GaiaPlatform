@@ -41,6 +41,8 @@ Links:
 * Website: http://www.gaiaplatform.com/
 * Bitcointalk: https://bitcointalk.org/index.php?topic=807698.0
 * Twitter: https://twitter.com/gaia_coin
+* Facebook: https://www.facebook.com/GAIAplatform
+* Reddit: https://www.reddit.com/r/GAIAcoin/
 * IRC: https://kiwiirc.com/client/irc.freenode.net/#gaiacoin
 * Block Explorer: http://www.gaiaplatform.com/explorer/
 * Live Block Explorer: http://live.gaiaplatform.com/
